@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Welcome to NexNode GitHub
 
-<!--
-**NexnodeX/NexnodeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm the founder of **NexNode** — providing ultra-fast, premium Game Hosting & VPS infrastructure.
 
-Here are some ideas to get you started:
+## 🚀 About NexNode
+We focus on raw performance for developers and gamers, offering:
+* ⚡ **AMD EPYC 4585PX** Processors
+* 🌐 **3 Gbps** Symmetric Uplinks
+* 🔒 Proxmox Virtualization & Advanced DDoS Protection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Looking for instant deployment? Check us out at [nexnode.eu](https://nexnode.eu)*
+
+## 🛠️ What we do here
+Here, we plan to share open-source tools, server configuration scripts, and API examples to help you integrate with the NexNode ecosystem.
+
+📫 **Contact us:** [support@nexnode.eu](mailto:support@nexnode.eu)
